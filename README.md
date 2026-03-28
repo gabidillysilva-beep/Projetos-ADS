@@ -1,7 +1,7 @@
 
 # Meus Estudos em ADS (Análise e Desenvolvimento de Sistemas)
 
-Olá! Eu sou a **Gabriela (Nininha)**. Este repositório foi criado para organizar todos os meus exercícios, projetos e desafios de programação durante a faculdade.
+Olá! Eu sou a **Gabriela**. Este repositório foi criado para organizar todos os meus exercícios, projetos e desafios de programação durante a faculdade.
 
 ## Tecnologias Utilizadas
 * **Linguagem C**: Base de lógica de programação.
