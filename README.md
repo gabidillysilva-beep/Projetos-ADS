@@ -1,14 +1,14 @@
-# Projetos ADS
-# 🚀 Meus Estudos em ADS (Análise e Desenvolvimento de Sistemas)
+
+# Meus Estudos em ADS (Análise e Desenvolvimento de Sistemas)
 
 Olá! Eu sou a **Gabriela (Nininha)**. Este repositório foi criado para organizar todos os meus exercícios, projetos e desafios de programação durante a faculdade.
 
-## 📌 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Linguagem C**: Base de lógica de programação.
 * **VS Code**: Editor de código principal.
 * **Git & GitHub**: Controle de versão e organização.
 
-## 📂 Organização do Repositório
+## Organização do Repositório
 
 Aqui estão as etapas do meu aprendizado:
 
