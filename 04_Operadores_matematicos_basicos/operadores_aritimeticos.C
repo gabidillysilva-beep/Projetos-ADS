@@ -34,4 +34,5 @@ int main() {
     printf("Multiplicação: %d\n", multiplicacao);
     printf("Divisão: %d\n", divisao);
 
+    return 0;
 }
