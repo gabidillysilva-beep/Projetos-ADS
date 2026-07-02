@@ -45,7 +45,7 @@ int main() {
   scanf(" %d", &pontos_turisticos1);
 
   // Calcular a densidade populacional da Carta1: Usando operador aritimético de divisão com conversão explicita
-  dencidade_populacional1 = (float) area1 / populaçao1;
+  dencidade_populacional1 = (float) populaçao1 / area1;
   // Calcular o PIB per capita da Carta1: com operador aritimético de divisão com conversão explicita
   pib_per_capita1 = (float) pib1 / populaçao1;
     
@@ -103,7 +103,7 @@ int main() {
   scanf(" %d", &pontos_turisticos2);
 
   // Calcular a densidade populacional da Carta2: Usando operador aritimético de divisão com conversão explicita
-  dencidade_populacional2 = (float) area2 / populaçao2;
+  dencidade_populacional2 = (float) populaçao2 / area2;
   // Calcular o PIB per capita da Carta2: com operador aritimético de divisão com conversão explicita
   pib_per_capita2 = (float) pib2 / populaçao2;
    
