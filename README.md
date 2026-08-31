@@ -1,31 +1,19 @@
+# Projetos ADS 🚀
 
-# Meus Estudos em ADS (Análise e Desenvolvimento de Sistemas)
+Repositório dedicado aos meus estudos e projetos desenvolvidos ao longo do curso de **Análise e Desenvolvimento de Sistemas (ADS)**. Aqui você encontrará códigos, exercícios e desafios práticos, especialmente focados na linguagem **C** e lógica de programação.
 
-Olá! Eu sou a **Gabriela**. Este repositório foi criado para organizar todos os meus exercícios, projetos e desafios de programação durante a faculdade.
+## 📁 Estrutura do Repositório
 
-## Tecnologias Utilizadas
-* **Linguagem C**: Base de lógica de programação.
-* **VS Code**: Editor de código principal.
-* **Git & GitHub**: Controle de versão e organização.
+O projeto contém diversos módulos e desafios práticos, incluindo:
+- **01 ao 03:** Conceitos iniciais, entrada e saída de dados, operadores aritméticos.
+- **04 ao 08:** Estruturas condicionais, manipulação de variáveis, operadores de incremento/decremento e conversões de tipos.
+- **Desafio Super Trunfo (Níveis Novato, Aventureiro e Mestre):** Projeto prático em C para criação de um jogo de cartas temático, envolvendo cálculo de densidade populacional, PIB per capita e comparações lógicas.
 
-## Organização do Repositório
-
-Aqui estão as etapas do meu aprendizado:
-
-* **[ola mundo](./olamundo)**: Primeiro contato com a sintaxe de C.
-* **[entrada_e_saida_de_dados](./01_entrada_e_saida_de_dados)**: Exercícios de leitura e exibição de informações (printf/scanf).
-* **[variaveis_e_formatacao](./02_variaveis_e_formatacao)**: Estudos sobre tipos de dados e saída formatada.
-* **[entrada_e_saida_de_dados](./03_entrada_e_saida_de_dados)**: Exercícios de leitura e exibição de informações (printf/scanf).
-* **[operadores matemáticos](./04_Operadores_matematicos)**: Exercícios sobre operadores aritméticos e entrada de dados em C.
-
-## Sobre mim
-Atualmente estudante de ADS, focada em transição de carreira e apaixonada por tecnologia e design. 
+## 🛠️ Tecnologias Utilizadas
+- **Linguagem C**
+- **GCC / MinGW** (Compilador)
+- **Visual Studio Code** (Ambiente de Desenvolvimento)
+- **Git & GitHub** (Controle de versão)
 
 ---
-*Estudando e evoluindo um commit de cada vez!* 
-
-
-Primeiro olá mundo! 
-
-Em linguagem C
-
+*Desenvolvido por Gabriela Dilly Silva.*
